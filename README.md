@@ -406,9 +406,16 @@ A collection of wallpapers I've found or decided were too good to leave sitting 
   <tr>
     <td align="center">
       <a href="./mm2.png">
-        <img src="./mm2.png" width="250">
+        <img src="./mm2.png" width="250" alt="Murder Mystery 2">
         <br>
         <b>Murder Mystery 2</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TrueNeonSamurai/Wallpapers-in-the-stone/releases/download/v1/Minecraft.Burberry.png">
+        <img src="https://github.com/TrueNeonSamurai/Wallpapers-in-the-stone/releases/download/v1/Minecraft.Burberry.png" width="250" alt="Minecraft Burberry 10K Wallpaper">
+        <br>
+        <b>Minecraft Burberry</b>
       </a>
     </td>
   </tr>
