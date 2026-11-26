@@ -418,6 +418,36 @@ A collection of wallpapers I've found or decided were too good to leave sitting 
         <b>Minecraft Burberry</b>
       </a>
     </td>
+    <td align="center">
+      <a href="./Lockscreen Hello.png">
+        <img src="./Lockscreen Hello.png" width="250" alt="Lockscreen Hello">
+        <br>
+        <b>Lockscreen Hello</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="./Red Blue White Abstract.png">
+        <img src="./Red Blue White Abstract.png" width="250" alt="Red Blue White Abstract">
+        <br>
+        <b>Red Blue White Abstract</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="Wide Floral Clouds.png">
+        <img src="Wide Floral Clouds.png" width="250" alt="Wide Floral Clouds">
+        <br>
+        <b>Wide Floral Clouds</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./Zoomed out Hello.png">
+        <img src="./Zoomed out Hello.png" width="250" alt="Zoomed out Hello">
+        <br>
+        <b>Zoomed out Hello</b>
+      </a>
+    </td>
   </tr>
 </table>
 
